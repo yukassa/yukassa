@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&abbreviated=true">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
