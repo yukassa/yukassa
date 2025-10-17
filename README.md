@@ -4,7 +4,7 @@
 
 - 🧑‍💼 I'm a corporate system engineer (backend engineer).
 - 🏢 I'm working at [NIFTY Co.](https://engineering.nifty.co.jp/)
-- 🔭 I'm currently working on an RPA tool migration project and data analysis for VR Office PoC.
+- 🔭 I'm currently working on data analysis for VR Office PoC.
 - 🌱 I’m currently learning ...
 
 My SKills</br>
