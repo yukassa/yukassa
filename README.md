@@ -11,6 +11,7 @@ I'm a corporate system engineer (backend engineer) at [NIFTY Co.](https://engine
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,3 +45,20 @@ I'm a corporate system engineer (backend engineer) at [NIFTY Co.](https://engine
 
 ### 🌱 Currently Working and Learninng
 I'm currently working on further analysis of the VR Office PoC, and to do so, I'm learning about statistical hypothesis testing, effectiveness verification, and causal inference.
+
+<!--### GitHub Analytics-->
+
+<!--
+  <p align="center">
+    <a href="https://github.com/yukassa">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yukassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/yukassa">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yukassa&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yukassa&theme=dark&hide_border=true"/>
+  </p>
+-->
