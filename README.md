@@ -23,6 +23,13 @@ Design and development of a schedule integration system using the Google Calenda
 
 ---
 
+### GitHub Stats
+
+![Stats1](https://github-readme-stats.vercel.app/api?username=yukassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Counter](https://github-readme-streak-stats.herokuapp.com/?user=yukassa&theme=dark&hide_border=true&count_private=true)
+
+---
+
 ### 🛠️ Main Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
