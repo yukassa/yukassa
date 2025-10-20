@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&abbreviated=true">
+<img src="https://komarev.com/ghpvc/?username=yukassa&style=flat-square&abbreviated=true">
 
 
 ### 👨‍💻 Profile
