@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 <img src="https://komarev.com/ghpvc/?username=yukassa&style=flat-square&abbreviated=true">
@@ -6,42 +7,27 @@
 ### 👨‍💻 Profile
 I'm a corporate system engineer (backend engineer) at [NIFTY Co.](https://engineering.nifty.co.jp/).
 
+---
 
-### ✨ Major Projects
-📊 Data Analysis Projects
-1. VR Office PoC
-2. Analysis of cancellation factors
+### ✨ Featured Projects
 
-🪚 Engineering Projects...
-1. Renewal of employee ID issuing system
-2. Migration of calendar tools and development of schedule integration tools
-3. Project management for introducing other companies' mini-games to point sites
+These projects represent my skills and experience.
 
-### 🌱 Currently Working and Learninng
-I'm currently working on further analysis of the VR Office PoC, and to do so, I'm learning about statistical hypothesis testing, effectiveness verification, and causal inference.
+| Project | Description | Key Skills |
+| :--- | :--- | :--- |
+| **🧠 Metaverse business usability evaluation** | **PoC based on a scientific approach using EEG data** <br/> I led the project from planning the experiment to analyzing the data and reporting the results. I statistically evaluated the usefulness of the Metaverse and compiled the results in a technical book and materials for internal technical events.<br/> ▶︎ [TechBook](https://techbookfest.org/product/ndL7Trj25niEKEHtgjVqsN?productVariantID=4hqBZW3kNCY9dv7Dei2yNB) <br/> ▶︎ [TechDay](https://youtu.be/NrhEwHkqO5A?si=Yffl4YIMdEdcYlK) | - **data analysis** <br/> - **experimental design** <br/> - **data visualization and evaluation** |
+| **🗓️ Internal calendar tool migration** | **Development of a company-wide calendar integration tool** <br/> To ensure compatibility with existing tools, we designed and developed a collaborative system from scratch that utilizes the Google Calendar API, and built an architecture that runs stably on AWS.<br/> *(※Code not disclosed as this is an internal project)* | - **architecture design** <br/> - **backend development (Go)** <br/> - **AWS** |
+<!--| **🧬 大学院研究** | **分子ロボティクスの設計原理に関する研究** <br/> DNAの自己組織化現象を数理モデルで解析し、シミュレーションを通じて分子ロボットの最適な設計を探索しました。<br/> ▶︎ [修士論文はこちら]([論文へのリンク]) | **数理モデリング** <br/> **シミュレーション** <br/> **仮説検証** |-->
+---
 
-### ⚒️ My SKills
+### 🛠️ Main Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scipy](https://img.shields.io/badge/-Scipy-blue?style=for-the-badge&logo=Scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-<!--### GitHub Analytics-->
+-   **Data Science:** Python (Pandas, scikit-learn), Statistical Analysis, Machine Learning, Data Visualization
+-   **Development:** Python, AWS, Docker, Terraform, Linux
 
-<!--
-  <p align="center">
-    <a href="https://github.com/yukassa">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yukassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </a>
-    <a href="https://github.com/yukassa">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yukassa&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yukassa&theme=dark&hide_border=true"/>
-  </p>
--->
+---
+
+<!--### 📫 Contact-->
+
+<!-- -   **Portfolio:** [https://[あなたのポートフォリオサイトのURL]](https://[あなたのポートフォリオサイトのURL])-->
+<!-- -   **LinkedIn:** [https://www.linkedin.com/in/[あなたのID]](https://www.linkedin.com/in/[あなたのID])-->
