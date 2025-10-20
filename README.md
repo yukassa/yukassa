@@ -23,9 +23,9 @@ Design and development of a schedule integration system using the Google Calenda
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 
-![Stats1](https://github-readme-stats.vercel.app/api?username=yukassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=yukassa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 ![Counter](https://github-readme-streak-stats.herokuapp.com/?user=yukassa&theme=dark&hide_border=true&count_private=true)
 
 ---
