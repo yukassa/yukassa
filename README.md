@@ -11,14 +11,16 @@ I'm a corporate system engineer (backend engineer) at [NIFTY Co.](https://engine
 
 ### ✨ Featured Projects
 
-1. 🧠 Metaverse work efficiency evaluation
-     <br/> Evaluation of the usefulness of the metaverse for improving work efficiency using ElectroEncephaloGraphy(EEG) data
-       <br/> ▶︎ [TechBook](https://techbookfest.org/product/ndL7Trj25niEKEHtgjVqsN?productVariantID=4hqBZW3kNCY9dv7Dei2yNB)
-       <br/> ▶︎ [TechDay](https://youtu.be/NrhEwHkqO5A?si=Yffl4YIMdEdcYlK)
-       <br/> ▶︎ [Portfolio Site](Under preparation)
-3. 🗓️ Internal calendar tool migration
-     <br/> Design and development of a schedule integration system using the Google Calendar API and building a stable architecture
-       <br/> ▶︎ [Portfolio Site](Under preparation)
+#### 1. 🧠 Metaverse work efficiency evaluation
+Evaluation of the usefulness of the metaverse for improving work efficiency using ElectroEncephaloGraphy(EEG) data
+  <br/> > [TechBook](https://techbookfest.org/product/ndL7Trj25niEKEHtgjVqsN?productVariantID=4hqBZW3kNCY9dv7Dei2yNB)
+  <br/> > [TechDay](https://youtu.be/NrhEwHkqO5A?si=Yffl4YIMdEdcYlK)
+  <br/> > [Portfolio Site](Under preparation)
+
+#### 2. 🗓️ Internal calendar tool migration
+Design and development of a schedule integration system using the Google Calendar API and building a stable architecture
+  <br/> > [Portfolio Site](Under preparation)
+
 ---
 
 ### 🛠️ Main Skills
