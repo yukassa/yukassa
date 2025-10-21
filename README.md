@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=yukassa&style=flat-square&abbreviated=true">
 
 
-## Corporate System Engineer at [NIFTY Co.](https://engineering.nifty.co.jp/) | Interested in data science 
+## Corporate System Engineer at [NIFTY Co.](https://engineering.nifty.co.jp/) | Interested in Data Science 
 
 ▶︎ [Portfolio Site](🚧 under construction)
 
