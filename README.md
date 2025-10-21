@@ -2,24 +2,20 @@
 <img src="https://komarev.com/ghpvc/?username=yukassa&style=flat-square&abbreviated=true">
 
 
-## Corporate System Engineer (Backend Engineer) at [NIFTY Co.](https://engineering.nifty.co.jp/)
+## Corporate System Engineer at [NIFTY Co.](https://engineering.nifty.co.jp/) | Interested in data science 
 
 ▶︎ [Portfolio Site](🚧 under construction)
 
 ### ✨ Featured Projects
-- 🧠 Metaverse work efficiency evaluation
-  - メタバース技術がインフラとして普及した場合の業務への有用性について情シスとして評価したい
-  - メタバース空間で業務することで脳波から求めた集中度などの指標が他の実施方法（オフライン・オンライン会議ツール）より高くなると仮定し、実験計画の立案とデータ収集・データ分析を行い、結果を技術書及び社内技術イベント発表資料としてまとめた
-  - By analyzing EEG data, we evaluated the usefulness of the Metaverse in improving work efficiency.
-  - ▶︎ [TechBook](https://techbookfest.org/product/ndL7Trj25niEKEHtgjVqsN?productVariantID=4hqBZW3kNCY9dv7Dei2yNB)、[TechDay](https://youtu.be/NrhEwHkqO5A?si=Yffl4YIMdEdcYlK)
-  - ▶︎ [Portfolio Site](🚧 under construction)
-  - Evaluating Metaverse Work Efficiency
-    To qualitatively evaluate the operational usefulness of metaverse technology, we designed an experiment to compare the levels of concentration in offline, web conferences, and the metaverse using electroencephalogram (EEG) data. We collected and analyzed the data to scientifically verify its usefulness.
-- 🗓️ Migration the company's internal calendar to Google Calendar
-  - We designed and developed a schedule integration tool and achieved a robust architecture.
-  - ▶︎ [Portfolio Site](🚧 under construction)
-  - Development of a schedule integration tool for a company-wide Google Calendar migration
-    After the migration, some users wanted to continue using their existing calendar, which could lead to missed or missed appointments. We designed and developed a tool using Go to integrate Google Calendar appointments with the existing calendar in real time. We implemented a robust architecture, including a FIFO queue, to ensure consistency across multiple users' schedule changes.
+- #### 🧠 Evaluating Metaverse Work Efficiency
+  - To qualitatively evaluate the work efficiency of metaverse technology, we **designed an experiment** to compare the levels of concentration in offline, web conferences, and the metaverse using **electroencephalogram (EEG) data**. We collected and analyzed the data to scientifically verify its efficiency.
+  - ▶︎ For details of the experiment plan and analysis results: [TechBook](https://techbookfest.org/product/ndL7Trj25niEKEHtgjVqsN?productVariantID=4hqBZW3kNCY9dv7Dei2yNB)、[TechDay](https://youtu.be/NrhEwHkqO5A?si=Yffl4YIMdEdcYlK)
+  - ▶︎ [See the hypothesis testing](🚧 Portfolio Site under construction)
+    
+- #### 🗓️ Development of a schedule integration tool for a company-wide Google Calendar migration
+  - Some users wanted to continue using their existing calendar after the migration. It could lead to missed or missed their appointments. We designed and developed a tool using Go to integrate Google Calendar schedules into the existing calendar in real time. We implemented a **robust architecture**, including a **FIFO queue**, to ensure consistency across multiple users' schedule changes.
+  - ▶︎ [For details](🚧 Portfolio Site: under construction)
+   
 
 ### 🛠️ Main Skills <br/>
 
