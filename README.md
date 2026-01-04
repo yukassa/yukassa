@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=yukassa&style=flat-square&abbreviated=true" alt="Profile Views" />
 
-# Hi there, I'm Yukassa 👋
+# Hi there, I'm yukassa 👋
 
-### Backend Engineer & Data Scientist (Physics Background) 🌌
+### Backend / Research Engineer (Physics Background) 🌌
 
 I specialize in converting **theoretical models into robust production systems**.
 
@@ -20,7 +20,7 @@ I specialize in converting **theoretical models into robust production systems**
 | :--- | :--- | :--- |
 | **🧠 Metaverse Efficacy Verification** | **R&D / Science** | Validated VR efficacy via **physics-based experimental design**. Engineered an **EEG pipeline** with automated **noise filtering logic**. <br> [**👉 Read Case Study**](https://yukassa.github.io/projects/metaverse-efficacy-verification) |
 | **🗓️ Calendar Sync System** | **Backend / Go** | Architected an **Event-Driven Sync System** on AWS Serverless. Solved **queue blocking** issues using a granular **SQS FIFO partitioning** strategy (User × Event). <br> [**👉 View Architecture**](https://yukassa.github.io/projects/calendar-sync-system) |
-| **📉 User Churn Classification** | **ML / XAI** | Moved beyond simple accuracy to **Explainable AI (XAI)** using **SHAP & LightGBM**. Translated "black box" feature importance into actionable business retention strategies. <br> [**👉 See Analysis**](https://yukassa.github.io/projects/churn-prediction-model) |
+| **📉 User Churn Prediction Analysis** | **ML / XAI** | Moved beyond simple accuracy to **Explainable AI (XAI)** using **SHAP & LightGBM**. Translated "black box" feature importance into actionable business retention strategies. <br> [**👉 See Analysis**](https://yukassa.github.io/projects/user-churn-prediction-analysis) |
 
 <br>
 
