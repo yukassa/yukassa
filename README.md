@@ -16,12 +16,20 @@ I have experience across backend engineering, experimental validation, data anal
 
 ## 📂 Featured Case Studies
 
-| Project | Domain | Key Achievement (Engineering & Analysis) |
+| Project | Domain | Key Achievement |
 | :--- | :--- | :--- |
 | **🧠 Metaverse Efficacy Verification** | **R&D / Experimentation** | Designed a within-subject evaluation with EEG, audio, and survey data. Built preprocessing workflows and statistical data-quality checks for small-sample validation. <br> [**👉 Read Case Study**](https://yukassa.github.io/projects/metaverse-efficacy-verification) |
-| **🚶 Crowd Simulation & Optimization** | **Modeling / Algorithms** | Built an interactive crowd simulation and layout-optimization environment. Combined pathfinding and local-avoidance models with GA/NSGA-II to evaluate object layouts using travel-time and congestion metrics. <br> |
 | **🗓️ Calendar Sync System** | **Backend / Go** | Architected an **Event-Driven Sync System** on AWS Serverless. Solved **queue blocking** issues using a granular **SQS FIFO partitioning** strategy (User × Event). <br> [**👉 View Architecture**](https://yukassa.github.io/projects/calendar-sync-system) |
 | **📉 User Churn Prediction Analysis** | **ML / XAI** | Built a churn-analysis model with LightGBM and used SHAP to interpret prediction factors and identify customer attributes associated with higher churn risk. <br> [**👉 See Analysis**](https://yukassa.github.io/projects/user-churn-prediction-analysis) |
+
+<br>
+
+## 🧪 Personal R&D / Projects
+
+| Project | Domain | Key Achievement |
+| :--- | :--- | :--- |
+| **🚶 Crowd Simulation & Optimization** | **Modeling / Algorithms** | Built an interactive crowd simulation and layout-optimization environment. Combined pathfinding and local-avoidance models with GA/NSGA-II to evaluate object layouts using travel-time and congestion metrics. |
+
 
 <br>
 
