@@ -19,7 +19,7 @@ I have experience across backend engineering, experimental validation, data anal
 | Project | Domain | Key Achievement |
 | :--- | :--- | :--- |
 | **🧠 Metaverse Efficacy Verification** | **R&D / Experimentation** | Designed a within-subject VR work evaluation using EEG, audio, and survey data; built preprocessing workflows and a simple EEG quality check. <br> [**👉 Read Case Study**](https://yukassa.github.io/projects/metaverse-efficacy-verification) |
-| **🗓️ Calendar Sync System** | **Backend / Go** | Architected an **Event-Driven Sync System** on AWS Serverless. Solved **queue blocking** issues using a granular **SQS FIFO partitioning** strategy (User × Event). <br> [**👉 View Architecture**](https://yukassa.github.io/projects/calendar-sync-system) |
+| **🗓️ Calendar Sync System** | **Event-Driven / Serverless** | Designed an event-driven calendar sync on AWS, using User × Event SQS FIFO grouping to preserve ordering, isolate failures, and control scraping load. <br> [**👉 View Architecture**](https://yukassa.github.io/projects/calendar-sync-system) |
 | **📉 User Churn Analysis** | **Data Analysis / ML (PoC)** | Analyzed churn-risk patterns with LightGBM and SHAP, and reported customer insights to business stakeholders. <br> [**👉 See Analysis**](https://yukassa.github.io/projects/user-churn-prediction-analysis) |
 
 <br>
