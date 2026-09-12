@@ -28,7 +28,7 @@ I have experience across backend engineering, experimental validation, data anal
 
 | Project | Domain | Key Achievement |
 | :--- | :--- | :--- |
-| **🚶 Crowd Simulation & Optimization** | **Simulation / Optimization** | Built a Go-based real-time crowd simulator for comparing pathfinding and local-avoidance models. The system evaluates goal time, congestion, and reach rate, and uses render-free simulation for GA-based constrained wall-placement search. |
+| **🚶 Crowd Simulation & Optimization** | **Simulation / Optimization** | Built a Go-based real-time crowd simulator for comparing pathfinding and local-avoidance models. The system evaluates goal time, congestion, and reach rate, and uses render-free simulation for GA-based constrained wall-placement optimization. |
 
 
 <br>
