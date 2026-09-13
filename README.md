@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=yukassa&style=flat-square&abbreviated=true" alt="Profile Views" />
 
-# Hi there, I'm yukassa 👋
+# Hi there 👋
 
 ### Software Engineer with a Physics & R&D Background 🌌
 
