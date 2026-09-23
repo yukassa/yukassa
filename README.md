@@ -6,13 +6,6 @@
 
 I have experience across backend engineering, experimental validation, data analysis, and simulation / optimization.
 
-<br>
-
-### 🚀 Explore my projects
-
-[![Portfolio](https://img.shields.io/badge/👉_Explore_Full_Portfolio-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yukassa.github.io)
-
-<br>
 
 ## 📂 Featured Case Studies
 
